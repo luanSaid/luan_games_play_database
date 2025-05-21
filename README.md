@@ -1,6 +1,7 @@
 # 🎮 Projeto de Banco de Dados para um site fictício de distribuição gratuita de jogos e aplicativos (luan_games_play)
 
-Projeto desenvolvido como trabalho final da disciplina de **Banco de Dados**, no curso de **Ciência da Informação**.
+Projeto desenvolvido como trabalho final da disciplina de **Banco de Dados** (7503), no curso de **Ciência da Informação** (UFSC).
+Desenvolvedor: Luan Said Meira Moreira
 
 ## 🧠 Descrição do Projeto
 
